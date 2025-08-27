@@ -6,5 +6,12 @@ But my job and other commitments confined me within the boundaries of my home, s
 I set up my own garden with the plants I love. It's been more than 1.5 years of being a plant daddy, and it's hectic yet enjoyable! 🌿
 
 I have been collecting gardening data since day one, which has helped me keep track of watering schedules, fertilizer applications, pesticide treatments, and pruning sessions for each of my plants 📊
-________________________________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 This repository contains Power BI report and data in excel files used for managing my home garden - because every plant deserves love care and attention ❤️🌺
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+You can contribute by :
+1. Adding an indexed excel file containing list of all the "Diseases" and "Infestation" that spread in plants.
+2. The file should contain a "Remedy" column which lists the name of the medicine used to cure the plant.
+3. The file should contain a "Medicine type" column which lists it's type like "Pesticide", "Insecticide", "Fungicide", "Natural", etc.
